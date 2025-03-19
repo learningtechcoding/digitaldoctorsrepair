@@ -5978,3 +5978,14 @@ ul ul > li.menu-item-has-children:hover > a:after {
     text-align: center;
   }
 }
+
+
+.bearsdds{
+  padding-top: 150px;
+}
+@media(max-width:992px)
+{
+  .bearsdds{
+    padding-top: 150px;
+  }
+}
