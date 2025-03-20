@@ -5988,4 +5988,11 @@ ul ul > li.menu-item-has-children:hover > a:after {
   .bearsdds{
     padding-top: 150px;
   }
+
+  .reliablesetting{
+    padding-top: 150px !important;
+  }
+}
+.openmobile-menu .brand-logo img{
+  width: 200px !important;
 }
